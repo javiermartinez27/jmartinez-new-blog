@@ -26,7 +26,7 @@ Aunque tuvo que pasar un par de meses, y unas cuantos videos en vivo para que me
 
 ## Tyler, The Creator - DON'T TAP THE GLASS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IGXS45Gp8jA?si=3QSReXXZU42JV85V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4sLvxpKLvagQ4lZHUpymza?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Probablemente hay un par de varios discos de rap mejores que el de Tyler de 2025.
 
@@ -34,7 +34,7 @@ Pero ninguno me hizo bailar como este, así que se lleva la corona.
 
 ## Deafheaven - Lonely People With Power 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XWbx4Pu0Pso?si=yXxWa9tNH6hev8HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5vWfIEWXevuwFSVqgrItHC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Rabia, tristeza, poder, ruido y emoción. Me costó agarrar este disco, a pesar de que en la primera escuchada puedes sentir lo potente que es.
 
@@ -50,7 +50,7 @@ También es un meme que todo el mundo esté sonando parecido a *Black Country, N
 
 ## betcover!! - 勇気 (Yuki)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4IMsI0R5qPw?si=6d6LkDIRYf3Ac7bx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0uxDEcLsiLUzBCrh2EUdO3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Hablando de sonar parecido a *Black Country, New Road*, tenemos a *betcover!!* con su último disco, que es eso, pero jazz. 
 
@@ -64,7 +64,7 @@ Me costó un montón entender la puta vibra. Y cuando lo hice, los fui a ver en 
 
 ## Miley Cyrus - Something Beautiful
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2nu8zpVBmY?si=xeZ4S1mNmHttkh_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1FYXNzi1u1vAl8aUC9TcdO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Si te dijera que el mejor disco de pop del 2025 lo iba a sacar *Miley Cyrus*... quizás tampoco es tan descabellado, pero yo no me lo esperaba.
 
