@@ -4,9 +4,9 @@ description: "Vamos con mis discos favoritos del año."
 date: "Dec 14 2025"
 ---
 
-De vuelta a escribir. Espero no volver a dejarlo botado. Y lo mejor que se me ocurre para volver es mi vieja/nueva fijación: encontrar música nueva; registré 118 discos escuchados de este año (y contando), entre los que se encuentran la mayoría de lanzamientos populares, así como un par demasiado rebuscados. 
+De vuelta a escribir. Espero no volver a dejarlo botado. Y lo mejor que se me ocurre para volver es mi vieja/nueva hiperfijación: encontrar música nueva; registré 118 discos escuchados de este año (y contando), entre los que se encuentran la mayoría de lanzamientos populares, así como un par demasiado rebuscados. 
 
-Así que vamos a lo que nos convoca: una lista de discos sin ningún orden en particular, sobre lo que creo que merece la pena escuchar del año que nos está dejando.
+Así que vamos a lo que nos convoca: una lista de discos sin ningún orden en particular, sobre lo que creo que merece la pena escuchar del año que nos deja.
 
 ## Shallow Alcove - Doggy Paddle 
 
@@ -139,3 +139,9 @@ Por alguna razón no me di cuenta de lo mucho que estaba escuchando este disco. 
 Pero cada 1 semana volvía. Y cada vez me gustaba una canción distinta. Y cada vez identificaba algo nuevo en ese caos ruidoso que tan bien se ve reflejada en la primera canción del álbum.
 
 Y, para mí, es eso. El caos. Pero un caos que transmite mucho. Casi un abrazo a las mentes que no lo gran apagarse. Casi como si la música sobrepensara tanto como uno mismo.
+
+# Fin
+
+El año pasado quería escuchar más música, por lo que me auto-impuse una restricción de registrar solo los discos de 2025 que escuchaba. Si escuchaba algo que no era de 2025, no lo escribía en ninguna parte.
+
+Y aunque al final me tenía desesperado, no me arrepiento en lo absoluto, porque me ayudó 100% a cumplir mi objetivo. El 2026 probaré algo distinto, tratando de meterme mucho más dentro de los artistas que escuche, y por eso mismo, de seguro varios artistas que están en esta lista empezarán a transformarse en mis favoritos.
