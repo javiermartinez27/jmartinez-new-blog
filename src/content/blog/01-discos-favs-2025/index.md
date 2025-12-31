@@ -8,6 +8,15 @@ De vuelta a escribir. Espero no volver a dejarlo botado. Y lo mejor que se me oc
 
 Así que vamos a lo que nos convoca: una lista de discos sin ningún orden en particular, sobre lo que creo que merece la pena escuchar del año que nos deja.
 
+## Menciones honoríficas
+
++ Bad Bunny - DeBÍ TiRAR MáS FOToS
++ SINAKA (🗣️) - EL NUEVO SONIDO
++ Niños del Cerro - Alma Tadema
++ Hiromi's Sonicwonder - Out There
++ Viagra Boys - viagr aboys
++ Carne - Todos mis Amigos Están Tristes
+
 ## Shallow Alcove - Doggy Paddle 
 
 <iframe class="md:block hidden" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1017625176/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=825782504/transparent=true/" seamless><a href="https://shallowalcove.bandcamp.com/album/doggy-paddle">Doggy Paddle de Shallow Alcove</a></iframe>
