@@ -16,7 +16,7 @@ Así que vamos a lo que nos convoca: una lista de discos sin ningún orden en pa
 
 Una obsesión que realmente no me di cuenta que estaba siendo obsesión hasta que mi ~polola~prometida me dijo *te gusta harto este disco eh*. 
 
-Es muy suave, un folk tierno que no lo hace daño a nadie... y eso está muy bien en esta época veraniega del año.
+Es muy suave, un folk tierno que no le hace daño a nadie... y eso está muy bien en esta época veraniega del año.
 
 ## Geese - Getting Killed 
 
@@ -148,7 +148,7 @@ También sueltan su primera *f-bomb* en la canción más desgarradora que han he
 
 Al mismo tiempo que hace esto, también sabe identificar su música con sonidos muy de *Congreso* o *Los Jaivas*, mientras al mismo tiempo identifica los sonidos internacionales que hoy suenan (*cof, cof, Black Country, New Road*).
 
-Recomiendo pañuenlos para escuchar *Fracaso* y *Cáliz*. Y también recomiendo mucho cantar *Pecado* a todo pulmón.
+Recomiendo pañuelos para escuchar *Fracaso* y *Cáliz*. Y también recomiendo mucho cantar *Pecado* a todo pulmón.
 
 ## caroline - caroline 2
 
@@ -160,7 +160,7 @@ Por alguna razón no me di cuenta de lo mucho que estaba escuchando este disco. 
 
 Pero cada 1 semana volvía. Y cada vez me gustaba una canción distinta. Y cada vez identificaba algo nuevo en ese caos ruidoso que tan bien se ve reflejada en la primera canción del álbum.
 
-Y, para mí, es eso. El caos. Pero un caos que transmite mucho. Casi un abrazo a las mentes que no lo gran apagarse. Casi como si la música sobrepensara tanto como uno mismo.
+Y, para mí, es eso. El caos. Pero un caos que transmite mucho. Casi un abrazo a las mentes que no logran apagarse. Casi como si la música sobrepensara tanto como uno mismo.
 
 # Fin
 
