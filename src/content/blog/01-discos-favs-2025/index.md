@@ -166,4 +166,4 @@ Y, para mí, es eso. El caos. Pero un caos que transmite mucho. Casi un abrazo a
 
 El año pasado quería escuchar más música, por lo que me auto-impuse una restricción de registrar solo los discos de 2025 que escuchaba. Si escuchaba algo que no era de 2025, no lo escribía en ninguna parte.
 
-Y aunque al final me tenía desesperado, no me arrepiento en lo absoluto, porque me ayudó 100% a cumplir mi objetivo. El 2026 probaré algo distinto, tratando de meterme mucho más dentro de los artistas que escuche, y por eso mismo, de seguro varios artistas que están en esta lista empezarán a transformarse en mis favoritos.
+Y aunque al final me tenía desesperado, no me arrepiento en lo absoluto, porque me ayudó 100% a cumplir mi objetivo. El 2026 probaré algo distinto, tratando de meterme mucho más dentro de los artistas que escuché, y por eso mismo, de seguro varios artistas que están en esta lista empezarán a transformarse en mis favoritos.
