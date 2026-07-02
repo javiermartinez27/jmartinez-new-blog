@@ -18,7 +18,7 @@ Hoy me siento cansadísimo de esto. Estoy jugando al *Final Fantasy XVI*, y hoy 
 
 Pero tampoco quiero mis otros hobbies, porque también estoy cansado de ellos.
 
-¿Las películas/series? Cansadísimo de que todas las semanas salgan 29384729834 cosas nuevas por Netflix/Prime/HBO/Hulu/Disney/Youtube/Apple TV/Paramount y que apenas se diferencien las unas a las otras porque todos hacerse virales y atacar casi los mismos nichos. Ah y, ¿si te enganchas con alguna? Junta miedo porque es un 50/50 de que la cancelen o renueven.
+¿Las películas/series? Cansadísimo de que todas las semanas salgan 29384729834 cosas nuevas por Netflix/Prime/HBO/Hulu/Disney/Youtube/Apple TV/Paramount y que apenas se diferencien las unas a las otras porque todos buscan hacerse virales y atacar casi los mismos nichos. Ah y, ¿si te enganchas con alguna? Junta miedo porque es un 50/50 de que la cancelen o renueven.
 
 ¿Tejer? Mira honestamente no es tan terrible como los otros, pero estoy bien cansado de buscar patrones y que la mitad sean falsos porque están hechos con IA. También me revienta las bolas que cada vez que alguien se entera de que tejo me diga "Ay deberías venderlos, yo te compraría".
 
