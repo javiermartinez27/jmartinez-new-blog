@@ -4,7 +4,7 @@ description: "Estructura mediocre, combate fácil y secundarias de MMO... y aún
 date: "Aug 07 2026"
 ---
 
-Érase una vez un yo hace 2 años sin haber jugado ningún Final Fantasy… fast-forward a hoy y ya tengo 5 sobre el cuerpo, 3 más comprados y a la Moi completamente convencida de empezar a jugar juntos al XIV (gracias Carlos).
+Érase una vez un yo hace 2 años sin haber jugado ningún Final Fantasy… fast-forward a hoy y ya tengo 5 sobre el cuerpo, 3 más comprados (gracias Carlos) y a la Moi completamente convencida de empezar a jugar juntos al XIV.
 
 Como pueden ver, es una saga a la que le estoy agarrando muchísimo cariño, muy rápido, y tal vez eso explique lo que me pasó con la última entrega de la saga principal. Porque FFXVI, como juego, es un… 4(?), pero tiene un alma, un cariño, una historia y unos personajes que me hicieron olvidar todo lo que el juego estaba haciendo que se podría catalogar como un "mal diseño".
 
