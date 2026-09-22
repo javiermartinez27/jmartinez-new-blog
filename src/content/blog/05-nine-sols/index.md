@@ -8,7 +8,7 @@ Voy a escribir un poco porque sí. No es que necesariamente sienta que este jueg
 
 Para partir: como dije, Nine Sols me gustó. Si solo quieres la recomendación, esa es; es un gran juego, un metroidvania sólido, con una historia buenísima y un combate que no tiene nada que envidiarle al GOAT Sekiro. 
 
-A partir de aquí me pongo odioso, pretencioso y hay un poco de spoilers (que no creo que vayan a arruinar en absoluto la experiencia eso si).
+A partir de aquí me pongo odioso y pretencioso.
 
 ### La experiencia 
 
