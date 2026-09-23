@@ -16,7 +16,7 @@ Justamente me agarraré de ahí para empezar, la experiencia Nine Sols es *muh w
 
 ![nine-sols-1](./ninesols1.jpg)
 
-De hecho, la primera vez que intenté jugarlo me alejó justamente que no me esperaba tanto énfasis en la historia y mundo. Por lo que sabía del combate, pensé que iba a toparme con un mundo mucho más vacío, sin tanta explicación, y que el juego se iba a enfocar más en solo combatir y derrotar jefes, pero no, Me topé con un muy buen equilibrio entre historia y combate, en donde ambos aspectos están bastante bien desarrollados.
+De hecho, la primera vez que intenté jugarlo me alejó justamente que no me esperaba tanto énfasis en la historia y mundo. Por lo que sabía del combate, pensé que iba a toparme con un mundo mucho más vacío, sin tanta explicación, y que el juego se iba a enfocar más en solo combatir y derrotar jefes, pero no. Me topé con un muy buen equilibrio entre historia y combate, en donde ambos aspectos están bastante bien desarrollados.
 
 La historia y lore también tiene tintes filosóficos / políticos interesantes que no solo se quedan en una mención; Yi, el protagonista, es notoriamente anti-ricos, la historia también está basada en un montón de leyendas chinas reinterpretadas y se explora a bastante profundidad el taoísmo.
 
