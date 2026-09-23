@@ -22,7 +22,7 @@ No me explayaré tanto porque no hay tanto que decir. Como dije, no es mi primer
 
 Lo que me hizo probar PICO-8, aparte de todas las flores que le tiran los que lo usan, es que vi un video que se llamaba algo como "Hice un one-page TTRPG por dia durante 30 días". Y yo quedé tipo "wtf piba está re loca" para obviamente luego decir "quiero hacerlo" y buscar cuál sería el equivalente en videojuegos.
 
-Después claro, no sé es muy lógico desarrollar un videojuego en 1 día, así lo alargué a 1 mes. Luego necesitaba un framework para esto, y PICO-8 me pareció lo más lógico por una razón clara: todos los otros framework me obligan a tener un programa aparte para los gráficos, otro para la música y de ahí lo que vaya saliendo (mapas, efectos de sonido, etc). PICO-8 lo agrupa todo en el mismo lugar, así que es perfecto para hacer un videojuego rápido. 
+Después claro, no es es muy lógico desarrollar un videojuego en 1 día, así lo alargué a 1 mes. Luego necesitaba un framework para esto, y PICO-8 me pareció lo más lógico por una razón clara: todos los otros framework me obligan a tener un programa aparte para los gráficos, otro para la música y de ahí lo que vaya saliendo (mapas, efectos de sonido, etc). PICO-8 lo agrupa todo en el mismo lugar, así que es perfecto para hacer un videojuego rápido. 
 
 El resto es lo que vengo haciendo de desarrollo, harto Claude Code, y los 23874 cursos que he mirado de dibujo y pixel art. La música es una progresión simple de F-C-Am-G que Claude también me ayudó a meter dentro de PICO-8 porque me parece lo más complejo de entender en el framework.
 
