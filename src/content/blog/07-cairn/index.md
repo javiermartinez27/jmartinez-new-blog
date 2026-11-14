@@ -26,7 +26,7 @@ Yo tampoco tengo esa respuesta.
 
 Por eso, tal vez, es que no pude hacer más que obsesionarme con ella con llegar hasta el final del viaje. Incluso cuando sabía que no era lo mejor que podía hacer. Incluso cuando se me dieron opciones para hacerlo. Incluso cuando ello significaba solo soledad.
 
-Solo queremos sentirnos parte de un todo, tocar la eternidad, pero ¿acaso no lo somos ya? ¿Acaso con nuestros amigos, familia, comunidad, no somos parte ya de un todo que deja una marca por toda la eternidad?
+El juego parte diciendo que que solo queremos sentirnos parte de un todo, tocar la eternidad, pero ¿acaso no lo somos ya? ¿Acaso con nuestros amigos, familia, comunidad, no somos parte ya de un todo que deja una marca por toda la eternidad?
 
 ![cairn-2](./cairn2.jpg)
 
