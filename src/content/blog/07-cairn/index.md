@@ -18,13 +18,13 @@ Justamente esas mecánicas simples son la parte más interesante del juego (por 
 
 #### Aava no es solo el personaje que controlas
 
-Es súper importante que aprendizaje te acerque a entender a la protagonista, porque el primer acercamiento que tienes a ella es un poco duro; Aava es una pesada, es poco comunicativa y está extremadamente obsesionada con ese pedazo de roca gigante. Y aunque lentamente entiendes (un poco) su personalidad, no creo que alcance para empatizar con ella.
+Es súper importante que ese aprendizaje te acerque a entender a la protagonista, porque el primer acercamiento que tienes a ella es un poco duro; Aava es una pesada, es poco comunicativa y está extremadamente obsesionada con ese pedazo de roca gigante. Y aunque lentamente entiendes (un poco) su personalidad, no creo que alcance para empatizar con ella.
 
 Y aún así… no pude evitar sentirme identificado. Porque ella no tiene la respuesta a por qué escala esa montaña, no tiene la respuesta a por qué se obsesiona con ello, ni a por qué se aleja de todas las personas que la quieren y/o necesitan.
 
 Yo tampoco tengo esa respuesta.
 
-Por eso, tal vez, es que no pude hacer más que obsesionarme con ella con llegar hasta el final del viaje. incluso cuando sabía que no era lo mejor que podía hacer. Incluso cuando se me dieron opciones para hacerlo. Incluso cuando ello significaba solo soledad.
+Por eso, tal vez, es que no pude hacer más que obsesionarme con ella con llegar hasta el final del viaje. Incluso cuando sabía que no era lo mejor que podía hacer. Incluso cuando se me dieron opciones para hacerlo. Incluso cuando ello significaba solo soledad.
 
 Solo queremos sentirnos parte de un todo, tocar la eternidad, pero ¿acaso no lo somos ya? ¿Acaso con nuestros amigos, familia, comunidad, no somos parte ya de un todo que deja una marca por toda la eternidad?
 
